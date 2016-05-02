@@ -11,6 +11,8 @@ Velibeo is a web app for the Velib bike sharing system in Paris, France. It can 
 General information:
 This web app is coded like a single page app. I just use HTML/CSS and JS
 
+
+
 # Coming soon
 I will work on new features like map, geolocation using web navigators, and a mobile app made with Ionic
 
