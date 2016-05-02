@@ -3,10 +3,8 @@
 Velibeo is a web app for the Velib bike sharing system in Paris, France. It can also be used as a webapp on any other mobile device, and will be packaged soon for other devices.
 
 ### How to use
-+ Simply search by postal code
-+ App give you the stations near your research and say you how many bicycle are availables
-
-## Resources for contributors
++ User can easily search bicycle stations by postal code
++ App show the stations near your research and say you how many bicycles are availables
 
 ### Development
 
