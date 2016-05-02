@@ -1,5 +1,5 @@
 # Velibeo
-=========
+
 Velibeo is a web app for the Velib bike sharing system in Paris, France. It can also be used as a webapp on any other mobile device, and will be packaged soon for other devices.
 
 ### How to use
